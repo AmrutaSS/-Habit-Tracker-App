@@ -1,0 +1,7 @@
+/* Set the font family for the entire page to Roboto Mono, a monospaced font */
+body {
+  font-family: 'Roboto Mono', monospace;
+
+/* Set the background color for the entire page to a light blue-gray */
+  background-color: #dfe3ee;
+}
