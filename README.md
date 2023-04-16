@@ -19,4 +19,4 @@ A simple Habit tracker app which allows to and track habits with a maximum 7 day
 - Clone the project onto your local machine.
 - Run 'npm install' to install required dependencies.
 - Run 'npm start' in terminal to start server.
-- Visit your app at http://localhost:5000.
+- Visit your app at https://habittrackerapp-zet2.onrender.com
